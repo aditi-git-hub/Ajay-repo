@@ -1,0 +1,11 @@
+student_id,student_name,course,marks,city
+1,Aditi Patil,Data Science,85,Pune
+2,Rohit Sharma,Python,78,Mumbai
+3,Sneha Joshi,SQL,92,Pune
+4,Karan Mehta,Java,74,Surat
+5,Neha Kulkarni,Data Science,88,Pune
+6,Amit Shah,Python,69,Mumbai
+7,Pooja Verma,SQL,95,Bangalore
+8,Ankit Jain,Java,72,Surat
+9,Riya Patil,Data Science,90,Pune
+10,Ajay Deshmukh,Python,80,Mumbai
